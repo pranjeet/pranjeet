@@ -1,6 +1,6 @@
 # Hi there, I'm Pranjeet Dhanapune 👋 
 
-MS CS @ UMass Amherst  | SWE • Backend • Microservices • Cloud-Native Development • IAM & IGA
+MS CS @ UMass Amherst  | Software Engineer • Microservices • Cloud-Native Development • IAM & IGA
 
 I’m a software engineer experienced in building scalable backend architectures, RESTful APIs, and cloud-ready microservices. 
   

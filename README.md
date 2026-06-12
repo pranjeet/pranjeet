@@ -2,7 +2,7 @@
 
 MS CS @ UMass Amherst  | Software Engineer • Microservices • Cloud-Native Development • IAM & IGA
 
-I’m a software engineer experienced in building scalable backend architectures, RESTful APIs, and cloud-ready microservices. 
+I’m a software engineer experienced in building scalable backend architectures, RESTful APIs, and cloud-native microservices. 
   
 🔎 Currently looking for **Full Time Software Engineer roles (Summer 2027)**  
 💼 LinkedIn: www.linkedin.com/in/pranjeet-dhanapune/  

@@ -18,12 +18,12 @@ I’m a software engineer experienced in building scalable backend architectures
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technical Skills
 * **Programming Languages & Certifications:** C, C++, Java, Python, JavaScript, SQL, HTML, CSS, Microsoft Azure Fundamentals
 * **Frameworks & Databases:** Spring Boot, Hibernate, J2EE, React.js, Node.js, Open API, Swagger, PostgreSQL, MySQL
 * **Cloud & DevOps Tools:** Docker, Kubernetes, IBM Cloud, Kibana, IBM Instana, Apache Zookeeper, RabbitMQ, Git, GitHub, Jenkins, Gradle, Maven
 * **Tools & Testing:** JIRA, Eclipse IDE, VS Code, IntelliJ IDEA, Postman, Linux, Cucumber, JUnit, Unit Testing, Integration Testing
-* **Skills:** SDLC, Backend Software Development, RESTful APIs, Microservices, Agile, Scrum, CI/CD, Identity and Access Management (IAM), Identity Governance and Administration (IGA)
+* **Other:** SDLC, Backend Software Development, RESTful APIs, Microservices, Agile, Scrum, CI/CD, Identity and Access Management (IAM), Identity Governance and Administration (IGA)
 
 ---
 
